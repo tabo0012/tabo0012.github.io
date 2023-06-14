@@ -43,12 +43,10 @@ nav>ul {
 }
 
 li>a {
-text-decoration: none;
-background-color:rgb(169, 225, 134);
-border: black;
-padding: 2px;
-border: 2px black;
-
+    text-decoration: none;
+    background-color:rgb(169, 225, 134);
+    padding: 2px;
+    border: 2px solid rgb(0, 0, 0);
 }
 
 
