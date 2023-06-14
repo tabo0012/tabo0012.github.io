@@ -1,0 +1,63 @@
+body {
+    
+      background-color: antiquewhite; 
+      padding: 2em;
+      font-size: 18px;
+      margin-bottom: 0;
+      margin-inline: 1em;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+header, footer {
+
+    background-color: #b3b7b4;
+}
+
+.site-title{
+
+    color: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(119, 19, 19);
+}
+
+
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+  }
+
+.hobbies{
+    list-style: square;
+}
+.hobbies 
+li:nth-child(odd) {
+    background-color:rgb(169, 225, 134);
+}
+ 
+
+nav>ul {
+
+    list-style-type: none;
+}
+
+li>a {
+text-decoration: none;
+background-color:rgb(169, 225, 134);
+border: black;
+padding: 2px;
+border: 2px black;
+
+}
+
+
+li>a:hover{
+background-color: rgb(95, 160, 104);
+text-decoration: underline;
+
+}
+
+
+
+
