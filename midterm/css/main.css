@@ -1,0 +1,117 @@
+
+body {
+    background-color:#AAD4CF ;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    
+}
+
+.wrapper {
+    background-color: #D4E9E7;
+    max-width: 1000px;
+    margin: 0 auto;  
+}
+
+.container {
+    position: relative;
+    font-size: x-large;
+    top: 45%;
+    text-align: center;
+    
+}
+
+
+img#lone-starfish-wide {
+    width: 100%;
+ 
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    width: 100%;
+    top: 45%;
+    text-align: center;
+}
+main{
+    margin: 10px;
+}
+
+.display li {
+    display: inline-block;
+    width: 32%;
+}
+.nav {
+        border-left: 1px solid black;
+        border-right: 1px solid black;
+    }
+.display li a {
+    padding: 30px;
+}
+.section1{
+    margin: 20px;
+    
+}
+.section1 h2 {
+    font-size: xx-large;
+}
+
+.section2 {
+    margin: 20px;
+}
+.section2 h2 {
+    font-size: xx-large;
+}
+.section3 {
+    margin: 20px;
+}
+.section3 h2 {
+    font-size: xx-large;
+}
+img#lone-starfish {
+    width: 290px;
+    margin: 10px;
+    float: left;           
+}
+
+.fieldset {
+    margin: 20px;
+}
+.inputname {
+    margin: 20px,30;
+    height: 20px;
+    width: 940px;
+}
+
+.inputemail {
+    margin: 20px,30;
+    height: 20px;
+    width: 940px;
+}
+.message {
+    margin: 20px,30;
+    width: 940px;
+    height: 200px;
+}
+.button{
+    height: 20px;
+    width: 55px;
+}
+
+
+.footer {
+ text-align: right;
+ margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
