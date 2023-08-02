@@ -78,18 +78,18 @@ img#lone-starfish {
     margin: 20px;
 }
 .inputname {
-    margin: 20px,30;
+    margin: 10px,20;
     height: 20px;
     width: 940px;
 }
 
 .inputemail {
-    margin: 20px,30;
+    margin: 10px,20;
     height: 20px;
     width: 940px;
 }
 .message {
-    margin: 20px,30;
+    margin: 10px,20;
     width: 940px;
     height: 200px;
 }
