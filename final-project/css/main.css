@@ -1,0 +1,69 @@
+header {
+    background-color: #222;
+    padding: 0;
+    text-align: center;
+
+}
+
+header li {
+
+    list-style: none;
+
+}
+
+.wrapper header-flex {
+    background-color: #c78b07;
+    padding: 0;
+}
+
+.img header {
+    align-items: start;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.about {
+    background-color: #ffe6ac;
+
+}
+
+.section-services {
+    margin: 0%;
+
+}
+
+
+.digital-transformation {
+    background-color: #ffe6ac;
+    margin: 1.5;
+
+}
+
+.marketing {
+    background-color: #ffe6ac;
+
+}
+
+.video-production {
+    background-color: #ffe6ac;
+
+}
+
+.web-development {
+    background-color: #ffe6ac;
+}
+
+.print {
+    background-color: #ffe6ac;
+}
